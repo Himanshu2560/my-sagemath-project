@@ -1,4 +1,0 @@
-#!/bin/bash
-# This will properly install SageMath
-sudo apt-get update
-sudo apt-get install -y sagemath
